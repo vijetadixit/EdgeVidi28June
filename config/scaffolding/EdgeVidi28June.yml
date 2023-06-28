@@ -1,0 +1,10 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: EdgeVidi28June
+  gitServerName: vidiJune28
+  gitUrl: https://github.com/vijetadixit/EdgeVidi28June
+  gitUsername: vijetadixit
+  gitToken: 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
+  gitBranch: master
